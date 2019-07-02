@@ -5,9 +5,9 @@ main {
 }
 
 div {
-  background-color: lightgrey;
-  outline: 1px solid darkgrey;
-  color: black;
+  /* background-color: lightgrey; */
+  outline: 2px solid darkgrey;
+  /* color: black; */
   position: relative;
 }
 
